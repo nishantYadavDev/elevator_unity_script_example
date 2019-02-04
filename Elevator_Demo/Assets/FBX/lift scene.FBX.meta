@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 379330d7fc127614da3730dcbca2d103
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: floor002
+    100022: floor003
+    100024: floor004
+    100026: floor005
+    100028: floor006
+    100030: floor007
+    100032: floor008
+    100034: floor009
+    100036: floor010
+    100038: floor011
+    100040: floor012
+    100042: floor013
+    100044: floor014
+    100046: floor015
+    100048: floor016
+    100050: floor017
+    100052: floor018
+    100054: floor019
+    100056: floor1
+    100058: floor1 1
+    100060: lift
+    100062: lift door_003
+    100064: lift door_004
+    100066: lift door_1
+    100068: lift door_2
+    100070: //RootNode
+    100072: Lift002
+    100074: lift002
+    100076: Lift1
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: floor002
+    400022: floor003
+    400024: floor004
+    400026: floor005
+    400028: floor006
+    400030: floor007
+    400032: floor008
+    400034: floor009
+    400036: floor010
+    400038: floor011
+    400040: floor012
+    400042: floor013
+    400044: floor014
+    400046: floor015
+    400048: floor016
+    400050: floor017
+    400052: floor018
+    400054: floor019
+    400056: floor1
+    400058: floor1 1
+    400060: lift
+    400062: lift door_003
+    400064: lift door_004
+    400066: lift door_1
+    400068: lift door_2
+    400070: //RootNode
+    400072: Lift002
+    400074: lift002
+    400076: Lift1
+    2100000: lift door
+    2100002: lift
+    2100004: floor
+    2100006: 01 - Default
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: floor002
+    2300022: floor004
+    2300024: floor006
+    2300026: floor008
+    2300028: floor010
+    2300030: floor012
+    2300032: floor014
+    2300034: floor016
+    2300036: floor018
+    2300038: floor1 1
+    2300040: lift door_003
+    2300042: lift door_004
+    2300044: lift door_1
+    2300046: lift door_2
+    2300048: Lift002
+    2300050: Lift1
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: floor002
+    3300022: floor004
+    3300024: floor006
+    3300026: floor008
+    3300028: floor010
+    3300030: floor012
+    3300032: floor014
+    3300034: floor016
+    3300036: floor018
+    3300038: floor1 1
+    3300040: lift door_003
+    3300042: lift door_004
+    3300044: lift door_1
+    3300046: lift door_2
+    3300048: Lift002
+    3300050: Lift1
+    4300000: lift door_1
+    4300002: lift door_2
+    4300004: Lift1
+    4300006: lift door_003
+    4300008: lift door_004
+    4300010: Lift002
+    4300012: floor1
+    4300014: Box001
+    4300016: floor002
+    4300018: Box002
+    4300020: floor004
+    4300022: Box003
+    4300024: floor006
+    4300026: Box004
+    4300028: floor008
+    4300030: Box005
+    4300032: floor010
+    4300034: Box006
+    4300036: floor012
+    4300038: Box007
+    4300040: floor014
+    4300042: Box008
+    4300044: floor016
+    4300046: Box009
+    4300048: floor018
+    4300050: Box010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
